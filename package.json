@@ -108,5 +108,8 @@
   "exports": {
     "./tests/*": "./tests/*",
     "./*": "./app/*"
+  },
+  "dependencies": {
+    "ember-headless-form": "^1.1.1"
   }
 }
